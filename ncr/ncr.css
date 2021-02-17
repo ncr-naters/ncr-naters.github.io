@@ -1,0 +1,73 @@
+/* NCR page CSS */
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+  .container {
+    margin-left: 20px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    margin-left: 40px;
+  }
+}
+
+.navbar-ncr-text {
+  font-weight: bold;
+  font-size: large;
+  color: rgba(255, 255, 255, 0.5);
+  position: fixed;
+  top: 18px;
+  left: 95px;
+  line-height: normal;
+}
+
+.navbar-collapse-ncr {
+  margin-left: 10px;
+}
+
+.navbar-ncr {
+  align-items: flex-end;
+}
+
+.navbar-nav-ncr {
+  line-height: normal;
+}
+
+.nav-link-ncr {
+  padding-bottom: 0rem;
+}
+
+.linkbar-ncr {
+  display: flex;
+  line-height: normal;
+}
+
+.link-ncr {
+  padding-top: 0.5rem;
+}
+
+main > .container {
+  padding: 100px 15px 0;
+}
+
+.footer {
+  line-height: normal;
+  background-color: #343a40 !important;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
