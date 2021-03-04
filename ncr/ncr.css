@@ -58,6 +58,10 @@
   padding-top: 0.5rem;
 }
 
+.ncr-gallery-link {
+  cursor: pointer;
+}
+
 main > .container {
   padding: 100px 15px 0;
 }
